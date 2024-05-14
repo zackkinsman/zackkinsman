@@ -15,7 +15,7 @@
   - Python programming and cybersecurity
   - Cybersecurity best practices and career advice
 - 📫 How to reach me:
-  - [LinkedIn]((https://www.linkedin.com/in/zack-kinsman-4415aa295/)) 
+  - [LinkedIn](https://www.linkedin.com/in/zack-kinsman-4415aa295/)
   - [Email](mailto:zackkinsman@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I transitioned from the construction and service industry to tech, bringing a unique perspective to my projects.
