@@ -12,9 +12,7 @@
 - 🤔 I’m looking for help with:
   - Finding work
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/zack-kinsman-4415aa295/)
-  - [Email](mailto:zackkinsman@gmail.com)
-- 😄 Pronouns: He/Him
+  - 😄 Pronouns: He/Him
 
 ## Stats
 ![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortword1&show_icons=true&theme=radical)
