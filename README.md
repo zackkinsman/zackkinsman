@@ -15,7 +15,7 @@
   - 😄 Pronouns: He/Him
 
 ## Stats
-![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortword1&show_icons=true&theme=radical)
+![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackkinsman&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shortword1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackkinsman&layout=compact&theme=radical)
